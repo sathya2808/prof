@@ -1,0 +1,7 @@
+steps to push file in github
+1. git init
+2.add 
+2.comit
+4.remote add origin url
+git push origin master
+
